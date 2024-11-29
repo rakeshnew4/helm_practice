@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://raw.githubusercontent.com/rakeshnew4/helm_practice/master/mychart-0.1.0.tgz
+    - https://raw.githubusercontent.com/rakeshnew4/helm_practice/master/mychart
     version: 0.1.0
 generated: "2024-11-29T21:19:22.558126081+05:30"
